@@ -14,10 +14,20 @@ In this application, we want to analyze the determinants of mobile money adoptio
 data from a survey of 2,282 households in Kenya on M-PESA (“M” for Mobile and “Pesa” for
 Money in Swahili), one of the most successful mobile money applications. 
 
-WE will attempt to evaluate these determinants using sets of classifiers (Logistic, Decision Tree, Random Forest and KNN) and compare their performances. 
+We will attempt to evaluate these determinants using sets of classifiers (Logistic, Decision Tree, Random Forest and KNN) and compare their performances. 
 
 # Files
+M-Pesa Classifier.py : Contains results and performance tests for all classifiers. 
+
+mobile_money.csv : Contains dataset for 2,282 surveys from Kenyan households.
 
 # Contributions
+Jack, W., & Suri, T. (2011). Mobile money: The economics of M-PESA (No. w16721). Na-
+tional Bureau of Economic Research.
+
+Jack, W., & Suri, T. (2014). Risk sharing and transactions costs: Evidence from Kenya’s
+mobile money revolution. American Economic Review, 104(1), 183-223.
+
+Suri, T. (2017). Mobile money. Annual Review of Economics, 9, 497-520.
 
 # Conclusion
