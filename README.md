@@ -31,3 +31,5 @@ mobile money revolution. American Economic Review, 104(1), 183-223.
 Suri, T. (2017). Mobile money. Annual Review of Economics, 9, 497-520.
 
 # Conclusion
+By comparing Accuracy Rate and ROC curve, we can conclude that Random Forest is the best fitted model. Random Forest classifier reported wkexppc (Food Consumption Per Capita), totexppc (Consumption Per Capita) and Cellphone usage to be the most used predictors. 
+
